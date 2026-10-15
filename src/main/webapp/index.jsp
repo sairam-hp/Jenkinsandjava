@@ -7,6 +7,7 @@
 <title>Hello, World!</title>
 </head>
 <body>
-<h1>Hello, World!   Hi Sairam   How are u</h1>
+<h1>Hello, World!</h1>
+<h2>Hi sairam, Welcome to CICD project</h2>
 </body>
 </html>
